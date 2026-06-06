@@ -26,7 +26,7 @@ Project created as part of my front-end practice to improve layout, structure an
 ---
 
 ## 📸 Preview
-(Add your screenshot here once ready)
+![piano Screenshot](piano.png)
 
 ---
 
